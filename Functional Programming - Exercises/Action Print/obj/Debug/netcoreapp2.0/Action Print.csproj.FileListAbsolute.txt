@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\bin\Debug\netcoreapp2.0\Action Print.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\bin\Debug\netcoreapp2.0\Action Print.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\bin\Debug\netcoreapp2.0\Action Print.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\bin\Debug\netcoreapp2.0\Action Print.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\bin\Debug\netcoreapp2.0\Action Print.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\obj\Debug\netcoreapp2.0\Action Print.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\obj\Debug\netcoreapp2.0\Action Print.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\obj\Debug\netcoreapp2.0\Action Print.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\obj\Debug\netcoreapp2.0\Action Print.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\obj\Debug\netcoreapp2.0\Action Print.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Action Print\obj\Debug\netcoreapp2.0\Action Print.pdb

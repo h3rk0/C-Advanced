@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\bin\Debug\netcoreapp2.0\List Of Predicates.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\bin\Debug\netcoreapp2.0\List Of Predicates.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\bin\Debug\netcoreapp2.0\List Of Predicates.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\bin\Debug\netcoreapp2.0\List Of Predicates.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\bin\Debug\netcoreapp2.0\List Of Predicates.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\obj\Debug\netcoreapp2.0\List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\obj\Debug\netcoreapp2.0\List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\obj\Debug\netcoreapp2.0\List Of Predicates.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\obj\Debug\netcoreapp2.0\List Of Predicates.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\List Of Predicates\obj\Debug\netcoreapp2.0\List Of Predicates.pdb

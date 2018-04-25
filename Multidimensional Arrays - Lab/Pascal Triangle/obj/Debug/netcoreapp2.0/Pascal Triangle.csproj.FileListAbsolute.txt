@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.pdb

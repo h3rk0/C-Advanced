@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp2.0\Simple Text Editor.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp2.0\Simple Text Editor.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp2.0\Simple Text Editor.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp2.0\Simple Text Editor.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp2.0\Simple Text Editor.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp2.0\Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp2.0\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp2.0\Simple Text Editor.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp2.0\Simple Text Editor.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp2.0\Simple Text Editor.pdb

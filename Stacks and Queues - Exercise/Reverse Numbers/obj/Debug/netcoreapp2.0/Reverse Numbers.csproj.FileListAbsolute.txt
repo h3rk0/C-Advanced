@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.pdb

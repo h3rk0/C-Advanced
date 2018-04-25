@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\bin\Debug\netcoreapp2.0\Balanced Parenthesis.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\bin\Debug\netcoreapp2.0\Balanced Parenthesis.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\bin\Debug\netcoreapp2.0\Balanced Parenthesis.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\bin\Debug\netcoreapp2.0\Balanced Parenthesis.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\bin\Debug\netcoreapp2.0\Balanced Parenthesis.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\obj\Debug\netcoreapp2.0\Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\obj\Debug\netcoreapp2.0\Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\obj\Debug\netcoreapp2.0\Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\obj\Debug\netcoreapp2.0\Balanced Parenthesis.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Balanced Parenthesis\obj\Debug\netcoreapp2.0\Balanced Parenthesis.pdb

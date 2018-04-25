@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.pdb

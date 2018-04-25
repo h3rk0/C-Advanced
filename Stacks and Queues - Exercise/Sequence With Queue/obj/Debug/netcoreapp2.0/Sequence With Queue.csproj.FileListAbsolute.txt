@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\bin\Debug\netcoreapp2.0\Sequence With Queue.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\bin\Debug\netcoreapp2.0\Sequence With Queue.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\bin\Debug\netcoreapp2.0\Sequence With Queue.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\bin\Debug\netcoreapp2.0\Sequence With Queue.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\bin\Debug\netcoreapp2.0\Sequence With Queue.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\obj\Debug\netcoreapp2.0\Sequence With Queue.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\obj\Debug\netcoreapp2.0\Sequence With Queue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\obj\Debug\netcoreapp2.0\Sequence With Queue.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\obj\Debug\netcoreapp2.0\Sequence With Queue.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\obj\Debug\netcoreapp2.0\Sequence With Queue.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Stacks and Queues - Exercise\Sequence With Queue\obj\Debug\netcoreapp2.0\Sequence With Queue.pdb

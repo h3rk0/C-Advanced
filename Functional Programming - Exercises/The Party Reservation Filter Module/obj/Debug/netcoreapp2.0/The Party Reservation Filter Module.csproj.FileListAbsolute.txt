@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\The Party Reservation Filter Module.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\The Party Reservation Filter Module.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\The Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\The Party Reservation Filter Module.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\The Party Reservation Filter Module.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\The Party Reservation Filter Module.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\The Party Reservation Filter Module.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\bin\Debug\netcoreapp2.0\Reverse And Exclude.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\Reverse And Exclude\obj\Debug\netcoreapp2.0\Reverse And Exclude.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.deps.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.runtimeconfig.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.runtimeconfig.dev.json
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.pdb
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.AssemblyInfo.cs
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.dll
+C:\Users\User\Desktop\CV\Github\C# Advanced\Functional Programming - Exercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.pdb
